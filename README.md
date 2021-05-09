@@ -1,2 +1,3 @@
 # singleuser
-This is my personal repository/project
+Data copied to my laptop. 
+Git console is used.
